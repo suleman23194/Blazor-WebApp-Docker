@@ -1,0 +1,7 @@
+C:\Users\Muhammad Suleman\Desktop\Blazor-WebApp-Docker\bin\Publish\Blazor-WebApp-Docker.exe
+C:\Users\Muhammad Suleman\Desktop\Blazor-WebApp-Docker\bin\Publish\appsettings.Development.json
+C:\Users\Muhammad Suleman\Desktop\Blazor-WebApp-Docker\bin\Publish\appsettings.json
+C:\Users\Muhammad Suleman\Desktop\Blazor-WebApp-Docker\bin\Publish\Blazor-WebApp-Docker.dll
+C:\Users\Muhammad Suleman\Desktop\Blazor-WebApp-Docker\bin\Publish\Blazor-WebApp-Docker.deps.json
+C:\Users\Muhammad Suleman\Desktop\Blazor-WebApp-Docker\bin\Publish\Blazor-WebApp-Docker.runtimeconfig.json
+C:\Users\Muhammad Suleman\Desktop\Blazor-WebApp-Docker\bin\Publish\Blazor-WebApp-Docker.pdb
